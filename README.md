@@ -2,3 +2,4 @@
 TalentPath assignment regarding Big Data
 ### By Val Puente
 By the will of the machine spirit, git has blessed us with changes.
+Praised be the Omnissiah.
